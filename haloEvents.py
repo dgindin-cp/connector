@@ -432,6 +432,12 @@ eventIdMap = {
     "special events policy modified": 710,
     "special events policy unassigned": 711,
     "vulnerable software package found": 607,
+    "agent registration key regenerated": 943,
+    "daemon settings modified": 944,
+    "halo api authentication failure": 945,
+    "halo session timeout modified": 946,
+    "portal audit policy modified": 947,
+    "server group moved": 948,    
 }
 
 
